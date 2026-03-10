@@ -1,23 +1,51 @@
-# Employee Management System
+# 📊 React Data Table Project
 
-A simple **Employee Management System** web application deployed with Vercel.  
-This app allows you to view, add, edit, and delete employee records (CRUD operations) through a clean UI.
+A simple and responsive Data Table application built using React.js.
+This project demonstrates how to display, manage, search, and organize user data in a structured table format.
 
-## Live Demo: https://pr-6-localbox-miner-kappa.vercel.app/
+## 🔗 Live Demo:
+https://pr-8-data-table.vercel.app/
 
-## 🧠 Features
+## 🚀 Features
 
-- 🧾 Add new employees
-- 🔍 View and list all employees
-- ✏️ Edit employee data
-- ❌ Delete employees
-- 🚀 Front-end deployed on Vercel
+- 📋 Display user data in a table format
 
-## 🧩 Tech Stack
+- ➕ Add new users
 
-| Layer          | Technology              |
-|----------------|-------------------------|
-| Frontend       | HTML, CSS, JavaScript   |
-| UI Framework   | React / Vanilla JS      |
-| Deployment     | Vercel                  |
+- ✏️ Edit existing users
 
+- ❌ Delete users
+
+- 🔍 Search functionality to quickly find users
+
+- 📄 Pagination to manage large datasets
+
+- 📱 Responsive UI
+
+- ⚛️ Built using React functional components
+
+## 🛠️ Technologies Used
+
+- React.js
+
+- JavaScript (ES6)
+
+- Bootstrap
+
+- HTML5
+
+## 🎯 Learning Purpose
+
+This project was created to practice:
+
+- React component structure
+
+- Props and state management
+
+- CRUD operations in React
+
+- Implementing Search functionality
+
+- Implementing Pagination
+
+- Handling forms in React
